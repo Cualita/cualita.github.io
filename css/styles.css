@@ -3,5 +3,15 @@ body {
     background-color: bisque;
 }
 img{
-    border: silver 4px solid;
+    border: silver 4px solid ;
+    height: 200px;
+    width: 100px;
 }
+h1{
+    background-color: antiquewhite;
+    color: blueviolet;
+}
+a{
+    font-size: 20px;
+}
+
